@@ -1,5 +1,7 @@
 # _About-Me_
-My name is **_Kunal Vohra_** and I joined Northwest Missouri State this fall as a graduate student pursuing Applied Computer Science. I am an Avid Gamer and also enjoy playing sports.
+Hello!!!
+
+This is **_Kunal_**, a graduate from Northwest Missouri State this fall as a graduate student pursuing Applied Computer Science. I am an Avid Gamer and also enjoy playing sports.
 
 ## _Hobbies_
 In my free time, I could be found :-
